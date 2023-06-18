@@ -1,3 +1,8 @@
+# Documentation
+
+Thesis Report: http://resolver.tudelft.nl/uuid:ef354713-924e-4907-a44f-95b67efa638e
+Thesis Presentation: https://docs.google.com/presentation/d/1A8LlLEEGUbXc0ZpOIEl9FwhRmZIBa8tN/edit?usp=sharing&ouid=109927364434677848723&rtpof=true&sd=true
+
 # Stereo View Synthesis
 
 ## Getting Started
