@@ -1,0 +1,14 @@
+files:
+  train_data: training
+  val_data: validation
+  test_data: validation
+  left_image_data: left
+  right_image_data: right
+  image_height: 224
+  image_width:  224
+  image_height_pad: 0
+  image_width_pad: 0
+  image_pad: 0
+  image_extended: 0
+  dataloader: Simulation
+  path: /data/luc/data/images/outdoor/10

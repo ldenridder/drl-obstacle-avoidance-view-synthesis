@@ -1,0 +1,13 @@
+files:
+  train_data: train
+  val_data: val
+  test_data: test
+  left_image_data: image_02
+  right_image_data: image_03
+  image_height: 96 #192 # 96 #376
+  image_width:  320 #640 #1272
+  image_width_padded:  384 #768 #384#1272
+  image_extended: 0
+  image_pad: 32
+  dataloader: KITTI
+  path: /data/luc/data/kitti

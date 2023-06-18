@@ -1,0 +1,11 @@
+files:
+  train_data: train
+  test_data: test
+  validation_data: val
+  left_image_data: leftImg8bit
+  right_image_data: rightImg8bit
+  image_height: 256
+  image_height_cropped: 256
+  image_width: 512
+  dataloader: CityScapes
+  path: /data/luc/data/cityscapes

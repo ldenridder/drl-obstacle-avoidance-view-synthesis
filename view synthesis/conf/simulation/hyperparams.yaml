@@ -1,0 +1,27 @@
+hyperparams:
+  batch_size: 8
+  batch_fit: 8
+  mean: [0.2700,0.2700,0.2700]
+  std: [0.2700,0.2700,0.2700]
+  mean_depth: 0.5469
+  std_depth: 1.9301
+  start_epoch: 0
+  epochs: 50
+  warmup_epochs: 10
+  weight_decay: 0.05
+  base_lr: 0.0005
+  warmup_lr: 0.0000005
+  min_lr: 0.000005
+  clip_grad: 5.0
+  auto_resume: True
+  accumalation_steps: 1
+  use_checkpoint: False
+  scheduler_name: cosine
+  decay_epochs: 4
+  decay_rate: 0.1
+  optimzer_name: adamw
+  optimizer_eps: 1e-8
+  optimizer_beta1: 0.9
+  optimizer_beta2: 0.999
+  optimizer_momentum: 0.9
+  model_epoch: 20
